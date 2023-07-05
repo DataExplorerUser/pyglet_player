@@ -5,7 +5,7 @@ Minimal example of playing an MP4 video with Pyglet using FFMPEG.
 The FFMPEG files can be downloaded here.
 https://github.com/BtbN/FFmpeg-Builds/releases
 
-For the windows version, scroll down and click Show all 50 assets and Download `ffmpeg-master-latest-win64-gpl-shared.zip`.
+For the windows version, scroll down and click Show all 50 assets and download `ffmpeg-master-latest-win64-gpl-shared.zip`.
 
 Pyglet 2.0.8 supports FFMPEG version 4,5 and 6.
 
